@@ -1,1 +1,17 @@
-
+/* style.css */
+body {
+font-family: Arial, sans-serif;
+background: #f4f6fa;
+color: #222;
+text-align: center;
+padding-top: 80px;
+}
+h1 {
+color: #4a6cf7;
+font-size: 2rem;
+margin-bottom: 16px;
+}
+p {
+font-size: 1.1rem;
+color: #555;
+}
